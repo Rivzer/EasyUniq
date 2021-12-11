@@ -1,0 +1,46 @@
+#Made By Rivzer
+Licentie: "LICENTIE-HIER"
+
+List:
+  - Normal
+  - Epic
+  - Legendary
+  - Special
+
+Info:
+  Normal:
+    Name: "&a&lNormal"
+    Lore:
+      - "Normal Crate"
+      - "Etra Lore"
+    Price: 500
+    BriefNaam: "&a&lNormal Crate &f&lPaper"
+    NBTE-TAGG: "normal"
+    Block: GREEN_GLAZED_TERRACOTTA
+  Epic:
+    Name: "&d&lEpic"
+    Lore:
+      - "Epic Crate"
+      - "Etra Lore"
+    Price: 1000
+    BriefNaam: "&d&lEpic Crate &f&lPaper"
+    NBTE-TAGG: "epic"
+    Block: PURPLE_GLAZED_TERRACOTTA
+  Legendary:
+    Name: "&6&lLegendary"
+    Lore:
+      - "Legendary Crate"
+      - "Etra Lore"
+    Price: 1500
+    BriefNaam: "&6&lLegendary Crate &f&lPaper"
+    NBTE-TAGG: "legendary"
+    Block: YELLOW_GLAZED_TERRACOTTA
+  Special:
+    Name: "&d&lS&5&lP&e&lE&a&lS&c&lC&6&lI&9&lA&3&lL"
+    Lore:
+      - "Special Crate"
+      - "Etra Lore"
+    Price: 5000
+    BriefNaam: "&d&lS&5&lP&e&lE&a&lS&c&lC&6&lI&9&lA&3&lL Crate &f&lPaper"
+    NBTE-TAGG: "special"
+    Block: BLUE_GLAZED_TERRACOTTA

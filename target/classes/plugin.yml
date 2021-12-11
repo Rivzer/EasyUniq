@@ -1,0 +1,7 @@
+name: EasyUniq
+version: '1.0'
+main: be.rivzer.easyuniq.Main
+
+commands:
+  uniq:
+    description: Main command
